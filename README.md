@@ -33,3 +33,5 @@ Then I applied the Polynomial Regression model and that plot is given below.
 ![image](https://user-images.githubusercontent.com/53445779/175906977-d0c9d3b9-76c5-4dd2-82a2-14489ff98b9c.png)
 
 From this, you can see that Polynomial is performing very well than the Simple Linear Regression model because that data is Non-Linear.
+
+## Heart Data Analysis
